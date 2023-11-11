@@ -1,0 +1,5 @@
+tenants: 1 rent an apartment in floor: 1, apartment: 1
+tenants: 2 rent an apartment in floor: 1, apartment: 3
+tenants: 3 rent an apartment in floor: 1, apartment: 4
+tenants: 4 rent an apartment in floor: 1, apartment: 2
+tenants: 5 rent an apartment in floor: 1, apartment: 5

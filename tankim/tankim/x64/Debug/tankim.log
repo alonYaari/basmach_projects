@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.h(6,75): warning C4091: 'typedef ': ignored on left of 'instruction' when no variable is declared
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.h(7,54): warning C4091: 'typedef ': ignored on left of 'Tile' when no variable is declared
+  tanks.c
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.h(6,75): warning C4091: 'typedef ': ignored on left of 'instruction' when no variable is declared
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.h(7,54): warning C4091: 'typedef ': ignored on left of 'Tile' when no variable is declared
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.c(548,6): warning C4101: 'nDirection': unreferenced local variable
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\tankim\tanks.c(549,6): warning C4101: 'nSteps': unreferenced local variable
+  Generating Code...
+  tankim.vcxproj -> C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\tankim\x64\Debug\tankim.exe

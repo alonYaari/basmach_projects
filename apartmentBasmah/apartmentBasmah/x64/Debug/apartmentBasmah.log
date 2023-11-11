@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\apartmentBasmah\apartmentBasmah\building.h(9,60): warning C4091: 'typedef ': ignored on left of 'animalType' when no variable is declared
+  apartmentBasmah.vcxproj -> C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\apartmentBasmah\x64\Debug\apartmentBasmah.exe

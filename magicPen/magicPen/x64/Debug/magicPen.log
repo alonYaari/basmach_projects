@@ -1,0 +1,9 @@
+﻿  Pen.c
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\magicPen\Pen.c(39,46): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\magicPen\Pen.c(39,28): warning C4024: 'strlen': different types for formal and actual parameter 1
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\magicPen\Pen.c(39,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\magicPen\Pen.c(101,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\magicPen\Pen.c(103,6): warning C4101: 'nNewSize': unreferenced local variable
+  main.c
+  Generating Code...
+  magicPen.vcxproj -> C:\Users\Admin\Desktop\שיעורים\תרגילים בסמח\magicPen\x64\Debug\magicPen.exe
